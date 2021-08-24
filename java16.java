@@ -17,9 +17,9 @@ public class java16 {
 		// TODO Auto-generated method stub
 		float GST;
 		int basePrice=34900;
-		System.out.println("you have to pay RS. "+GST+" GST amount"")
-		
-
+		GST=basePrice*(18.0f/100);
+		System.out.println("you have to pay RS. "+GST+" GST amount on RS. 34900");
+	
 	}
 
 }
