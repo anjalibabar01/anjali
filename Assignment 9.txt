@@ -1,0 +1,4 @@
+Assignment 9
+
+in this program value 6 is printed twice the reason is we are using postfix increment 
+operator which prints or store the value first and then increment it thats why 6 is printed twice

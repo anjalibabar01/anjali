@@ -1,0 +1,37 @@
+Assignment 19
+
+a= if number is 3 the output will be:
+second string
+third string
+
+b= yes the output is what i predicated i.e second string
+third string because outer if contains condition
+ aNumber==0 and 3 is >=0 so it will 
+enter in this block...
+it contains inner if statement which has condition 
+ aNumber==0 but 3 is not equal to 0 the containsis false
+ it exicutes else block and print second stringafter else
+ block third string is printed
+ 
+c=if(aNumber >=0){
+  if(aNumber==0)
+   {
+     system.out.println("frist string");
+   }
+   else
+   {
+    system.out.println("second string"); 
+    system.out.println("third string");
+   }
+   }
+   
+d= if (aNumber>=0){
+   if (aNumber==0){
+    system.out.println("first.string");
+   }
+   else{
+    system.out.println("second string");
+    }
+    system.out.println("third string");
+   }	
+   

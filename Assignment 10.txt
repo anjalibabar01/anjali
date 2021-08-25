@@ -1,0 +1,7 @@
+avalue=8933.234;  =here the value 8933.234 is stored in variable named avalue.
+
+avalue++           =here postfix increment operator is used which increments avalue by 1.
+
+system.out.println("hello world!");   =this is simple print statement which prints hello world.
+
+bicycle MyBike=new bicycle();  =here object of class bicycle named mybike is created or we can instatiated.
